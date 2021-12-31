@@ -8,7 +8,9 @@ export const data  = {
         brand:'Nike',
         rating:4.5,
         numReviews:10,
-        description:'high quality product'
+        description:'high quality product',
+        countInStock:3
+
     },
     {  _id:'2',
     name:'Nike slim shitrs',
@@ -18,7 +20,9 @@ export const data  = {
     brand:'Nike',
     rating:2,
     numReviews:10,
-    description:'high quality product'
+    description:'high quality product',
+    countInStock:3
+
 } ,{  _id:'3',
 name:'Nike slim shitrs',
 category:'Shirts',
@@ -27,7 +31,9 @@ price:120,
 brand:'Nike',
 rating:5,
 numReviews:10,
-description:'high quality product'
+description:'high quality product',
+countInStock:3
+
 },
 {  _id:'4',
 name:'Nike slim shitrs',
@@ -37,7 +43,9 @@ price:120,
 brand:'Nike',
 rating:1.5,
 numReviews:10,
-description:'high quality product'
+description:'high quality product',
+countInStock:3
+
 },
 {  _id:'5  ',
 name:'Nike slim shitrs',
@@ -47,7 +55,9 @@ price:120,
 brand:'Nike',
 rating:4.5,
 numReviews:10,
-description:'high quality product'
+description:'high quality product',
+countInStock:3
+
 }
 ,
 {  _id:'6',
@@ -58,7 +68,8 @@ price:120,
 brand:'Nike',
 rating:4.5,
 numReviews:10,
-description:'high quality product'
+description:'high quality product',
+countInStock:3
 }
     ]
 }
